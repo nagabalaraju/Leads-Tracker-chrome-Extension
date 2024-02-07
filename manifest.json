@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "A Leads Tracker",
+  "version": "1.0",
+  "description": "Effortlessly save links for lead tracking",
+  "browser_action": {
+    "default_icon": {
+      "19": "OIP.jpeg",
+      "38": "OIP1.jpeg"
+    },
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
+
+  
